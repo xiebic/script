@@ -9,5 +9,5 @@ Filebrowser.sh
 
 ### 下载安装:
 ``` bash
-bash <(curl -L -s https://raw.githubusercontent.com/vinewx/script/master/Filebrowser.sh)
+bash <(curl -L -s https://raw.githubusercontent.com/xiebic/script/master/Filebrowser.sh)
 ```
